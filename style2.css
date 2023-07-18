@@ -1,0 +1,66 @@
+.all{
+    text-align: center;
+    border-block: coral;
+}
+
+body{
+    border: solid;
+    color: coral;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+
+
+h1{
+    font-size: 300%;
+}
+
+img{
+    width: 500px;
+    height: 380px;
+    border-radius:50%;
+    border: solid;
+    color: coral;
+}
+
+#myName{
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: chocolate;
+}
+
+#nameOfUniversity{
+    font-size: 200%;
+    font-style: italic;
+    color: orange;
+}
+
+
+
+.bi-facebook{
+    color:#1877f2;
+}
+.bi-instagram{
+    color:purple;
+}
+.bi-linkedin{
+    color:#0072b1;
+}
+.bi-twitter{
+    color:#00acee;
+}
+
+footer{
+    font-size: 200%;
+    text-align: center;
+    color:coral;
+    background-color: chocolate;
+}
+footer:hover{
+    font-size: 200%;
+    text-align: center;
+    color:green;
+    background-color: mediumseagreen;
+}
